@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 101192a53e3421846b194658d243ccd7
+timeCreated: 1518003215
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85485
+  packageName: Knife 3d model
+  packageVersion: 1.0
+  assetPath: Assets/Knife/Model/Knife.prefab
+  uploadId: 228742

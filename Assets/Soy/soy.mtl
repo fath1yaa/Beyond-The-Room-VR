@@ -1,0 +1,8 @@
+# Created by Kenney (www.kenney.nl)
+
+newmtl _defaultMat
+  Kd 1.00 1.00 1.00
+
+newmtl brownDarkest
+  Kd 0.05 0.02 0.01
+
